@@ -1,3 +1,9 @@
+/*
+Name: Isaac Euceda
+Date: 04/14/2026
+CSC 372-01
+Main App component that manages the state of the game, including player and computer throws, game result, and score. It also handles user interactions and game logic.
+*/
 import { useState, useEffect } from "react";
 import PlayerThrow from "./components/PlayerThrow";
 import ComputerThrow from "./components/ComputerThrow";

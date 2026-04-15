@@ -1,3 +1,9 @@
+/*
+Name: Isaac Euceda
+Date: 04/14/2026
+CSC 372-01
+ComputerThrow page where the computer's throw is displayed. Shows an animation while the computer is "thinking" and then reveals the final choice.
+*/
 import { useEffect, useState } from "react";
 import styles from "./ComputerThrow.module.css";
 

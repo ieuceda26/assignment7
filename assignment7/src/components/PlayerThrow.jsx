@@ -1,3 +1,9 @@
+/*
+Name: Isaac Euceda
+Date: 04/14/2026
+CSC 372-01
+PlayerThrow page where the player can select their throw (rock, paper, or scissors). Highlights the selected option and disables selection while the computer is "thinking".
+*/
 import styles from "./PlayerThrow.module.css";
 
 export default function PlayerThrow({ onSelect, playerThrow, disabled }) {
