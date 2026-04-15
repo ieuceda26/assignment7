@@ -1,7 +1,7 @@
 # assignment7
 <h1>Rock, Paper, Scissors</h1>
-<h1>DEMO LINK: 
-<h1> DIRECT LINK IN CASE LINK ABOVE GIVES YOU TROUBLE:
+<h1>DEMO LINK: [
+](https://uncg-my.sharepoint.com/:v:/g/personal/i_eucedacol_uncg_edu/IQD7FRBhrhmSQKVe79p_1ueTATCp5kRmxjUhBh7VH58Sbzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WWOc2M)<h1> DIRECT LINK IN CASE LINK ABOVE GIVES YOU TROUBLE:
 
   
 <h1>Description</h1>
